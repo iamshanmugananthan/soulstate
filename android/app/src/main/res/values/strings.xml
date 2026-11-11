@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Soul State</string>
+    <string name="widget_description">Track habits, money, and meals</string>
+    <string name="widget_heatmap_label">Soul State heatmap</string>
+    <string name="widget_habit_label">Soul State habits</string>
+    <string name="widget_today_label">Soul State today</string>
+    <string name="widget_todos_label">Soul State to-do</string>
+    <string name="widget_dashboard_label">Soul State dashboard</string>
+    <string name="widget_money_label">Soul State money tracker</string>
+    <string name="widget_meals_label">Soul State meal tracker</string>
+    <string name="widget_todos_description">See what is left to do today</string>
+</resources>
