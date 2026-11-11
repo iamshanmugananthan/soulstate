@@ -8,6 +8,9 @@ IssueTracker: https://github.com/iamshanmugananthan/soulstate/issues
 Changelog: https://github.com/iamshanmugananthan/soulstate/releases
 Donate: https://buymeacoffee.com/shanmugananthan
 
+RepoType: git
+Repo: https://github.com/iamshanmugananthan/soulstate.git
+
 AutoUpdateMode: Version
 UpdateCheckMode: Tags
 CurrentVersion: 1.0.0
@@ -24,8 +27,6 @@ Builds:
       - ios
       - macos
       - windows
-    prebuild:
-      - sed -i -e '/signingConfigs/d' -e '/signingConfig =/d' android/app/build.gradle.kts
     build:
       - $$flutter$$/bin/flutter config --no-analytics
       - $$flutter$$/bin/flutter pub get
