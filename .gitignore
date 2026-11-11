@@ -26,6 +26,9 @@ Thumbs.db
 .pub-preload-cache/
 .pub/
 build/
+releases_v1/
+releases*/
+release/
 flutter_*.png
 linked_*.ds
 unlinked.ds
