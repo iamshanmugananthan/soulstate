@@ -1,0 +1,8 @@
+Initial release of Soul State (v1.0.0):
+* Habit Tracker with daily streaks and completion history
+* To-Do List with custom repeating reminders and alarms
+* Expense Tracker with category management and financial insights
+* Mindful Meal & Calorie Logger
+* Obsidian-compatible Markdown Vault
+* Optional encrypted personal AWS S3 cloud synchronization
+* 100% private, offline-first, no tracking, and no ads

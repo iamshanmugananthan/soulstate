@@ -1,0 +1,12 @@
+Soul State is a private, offline, ad-free life operating system designed for Android.
+
+Build discipline, track your money, eat mindfully, and stay focused—all in one application that never sends your personal data to any corporate server.
+
+Key Features:
+* Habit Tracker: Build positive habits and break negative ones with streak tracking, frequency options, and completion history.
+* To-Do & Repeating Alarms: Task management with custom repeating reminders and reliable notification alarms.
+* Expense Tracker: Completely private personal finance tracking with category breakdowns and expense logs.
+* Calorie & Meal Log: Mindful nutrition logging with calorie counts and macro tracking.
+* Obsidian Markdown Vault: Notes and thoughts saved in standard Markdown format, fully compatible with Obsidian.
+* Optional AWS S3 Sync: End-to-end encrypted backup and sync directly to your own personal AWS S3 bucket.
+* Privacy & Freedom: 100% offline, zero ads, zero telemetry, zero trackers, and no account required.
