@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Soul State
+Comment=A mindful habit, money, and meal tracker
+Exec=SoulState
+Icon=com.shanmugananthan.soulstate
+Terminal=false
+Categories=Utility;
+Keywords=habit;habits;tracker;focus;soulstate;
+StartupWMClass=com.shanmugananthan.soulstate

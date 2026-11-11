@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>com.shanmugananthan.soulstate</id>
+  <name>Soul State</name>
+  <summary>Mindful habits, finances, and nourishment — private and offline</summary>
+  <developer id="com.shanmugananthan">
+    <name>Shanmugananthan</name>
+  </developer>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-only</project_license>
+  <launchable type="desktop-id">com.shanmugananthan.soulstate.desktop</launchable>
+  <provides>
+    <binary>SoulState</binary>
+  </provides>
+  <url type="homepage">https://shanmugananthan.com</url>
+  <url type="bugtracker">https://github.com/iamshanmugananthan/soulstate/issues</url>
+  <url type="vcs-browser">https://github.com/iamshanmugananthan/soulstate</url>
+  <description>
+    <p>Soul State is an offline-first private life operating system that unifies habit tracking, expense and income records, nutrition logs, Markdown vault sync, and encrypted S3 cloud storage.</p>
+    <p>No accounts, no subscriptions, no ads, no tracking. Every habit and setting stays on your computer, and the full source is open.</p>
+    <ul>
+      <li>Mindful habit tracking with daily streaks, flexible intervals, and activity heatmaps</li>
+      <li>Comprehensive personal finance tracking with category breakdowns</li>
+      <li>Daily meal, nutrition, and calorie logging</li>
+      <li>Soul State Vault: seamless Markdown synchronization compatible with Obsidian and Logseq</li>
+      <li>Automated S3 cloud backup with client-side AES-256 encryption</li>
+    </ul>
+  </description>
+  <content_rating type="oars-1.1"/>
+  <releases>
+    <release version="1.0.0" date="2026-11-11"/>
+  </releases>
+</component>
