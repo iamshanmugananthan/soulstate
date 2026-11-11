@@ -100,3 +100,12 @@ unlinked_spec.ds
 # Coverage & symbols
 coverage/
 app.*.symbols
+
+# Built package artifacts
+*.apk
+*.aab
+*.deb
+*.AppImage
+*.tar.gz
+*.exe
+

@@ -10,14 +10,14 @@ rm -rf "$out"
 mkdir -p "$out/SoulState" "$out/AppDir/usr/bin"
 
 cp -r "$bundle"/. "$out/SoulState/"
-tar -C "$out" -czf SoulState-linux-x64.tar.gz SoulState
+tar -C "$out" -czf soulstate-1.0.0-linux-x64.tar.gz SoulState
 
 cp -r "$bundle"/. "$out/AppDir/usr/bin/"
 cp "$bundle/com.shanmugananthan.soulstate.desktop" "$bundle/com.shanmugananthan.soulstate.png" "$out/AppDir/"
 ln -s com.shanmugananthan.soulstate.png "$out/AppDir/.DirIcon"
 ln -s usr/bin/SoulState "$out/AppDir/AppRun"
 
-curl -fsSL -o "$out/appimagetool" "$tool"
-curl -fsSL -o "$out/runtime" "$runtime"
+curl -6 -fsSL -o "$out/appimagetool" "$tool"
+curl -6 -fsSL -o "$out/runtime" "$runtime"
 chmod +x "$out/appimagetool"
 ARCH=x86_64 "$out/appimagetool" --appimage-extract-and-run --runtime-file "$out/runtime" "$out/AppDir" SoulState-x86_64.AppImage
