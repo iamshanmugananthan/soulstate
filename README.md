@@ -20,6 +20,12 @@
   <img alt="No tracking" src="https://img.shields.io/badge/No%20Tracking-Privacy%20First-0EA5E9?style=flat" />
 </p>
 
+<p>
+  <a href="https://github.com/iamshanmugananthan/soulstate/releases/latest">
+    <img src="downloaderbadges/get-it-on-github.png" height="52" alt="Get it on GitHub" />
+  </a>
+</p>
+
 <a href="https://buymeacoffee.com/shanmugananthan">
   <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=%E2%98%95&slug=shanmugananthan&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" height="42" alt="Buy Me A Coffee" />
 </a>
