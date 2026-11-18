@@ -28,7 +28,7 @@ dependencies:
   path_provider: ^2.1.5
   lucide_icons_flutter: ^4.0.2
   package_info_plus: ^10.2.2
-  permission_handler: ^13.0.2
+  permission_handler: 12.0.3
   provider: ^6.1.5+1
   share_plus: ^13.3.1
   timezone: ^0.11.2
@@ -46,6 +46,7 @@ dev_dependencies:
 dependency_overrides:
   permission_handler_windows:
     path: desktop/permission_handler_windows
+  permission_handler_android: 13.0.1
 
 # Run: dart run flutter_launcher_icons
 flutter_launcher_icons:

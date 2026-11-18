@@ -24,6 +24,9 @@
   <a href="https://github.com/iamshanmugananthan/soulstate/releases/latest">
     <img src="downloaderbadges/get-it-on-github.png" height="52" alt="Get it on GitHub" />
   </a>
+  <a href="https://f-droid.org/packages/com.shanmugananthan.soulstate/">
+    <img src="downloaderbadges/get-it-on-fdroid.png" height="52" alt="Get it on F-Droid" />
+  </a>
 </p>
 
 <a href="https://buymeacoffee.com/shanmugananthan">

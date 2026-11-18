@@ -17,7 +17,7 @@ if (keystorePropertiesFile.exists()) {
 
 android {
     namespace = "com.shanmugananthan.soulstate"
-    compileSdk = 37
+    compileSdk = 35
     ndkVersion = flutter.ndkVersion
 
     compileOptions {
@@ -33,7 +33,7 @@ android {
     defaultConfig {
         applicationId = "com.shanmugananthan.soulstate"
         minSdk = 28
-        targetSdk = 36
+        targetSdk = 35
         versionCode = flutter.versionCode
         versionName = flutter.versionName
     }

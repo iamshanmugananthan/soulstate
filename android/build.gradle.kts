@@ -42,6 +42,7 @@ subprojects {
 
 subprojects {
     val alignJvm: Project.() -> Unit = {
+        extensions.findByType(com.android.build.gradle.LibraryExtension::class.java)?.compileSdk = 35
         extensions.findByType(com.android.build.gradle.LibraryExtension::class.java)
             ?.compileOptions {
                 sourceCompatibility = JavaVersion.VERSION_11
